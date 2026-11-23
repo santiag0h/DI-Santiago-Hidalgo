@@ -1,4 +1,4 @@
-# Nombre de la app
+# Nombre de la app: Kebab Maracena
 -Alumno/a:**Santiago Anas Hidalgo Taoufiki
 -**Temática:**por ver
 -**IDE:**NetBeans
